@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Química',
+    'O que é uma reação química?',
+    'Uma reação química é um processo onde as ligações entre átomos se rompem e novas ligações se formam, resultando na transformaçaõ de substâncias iniciais em novas substâncias.  '
 )
 
 criaCartao(
