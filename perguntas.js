@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Língua Portuguesa ',
+    'O que é um texto dissertativo?',
+    'Um texto dissertativo'
 )
 
 criaCartao(
