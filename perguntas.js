@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biotecnologia',
+    'Qual o objetivo da biotecnologia?',
+    'A biotecnologia tem como função melhorar a vida do ser humano por meio do desenvolvimento das áreas. O grande destaque é para a medicina, já que além das vacinas, a biotecnologia também está envolvida na produção de medicamentos dos mais diversos e tratamentos.'
 )
 
 criaCartao(
