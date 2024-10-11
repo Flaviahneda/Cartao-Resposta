@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Língua Portuguesa ',
     'O que é um texto dissertativo?',
-    'Um texto dissertativo'
+    'Um texto dissertativo é um tipo de redação que tem como objetivo expor e discutir um tema de forma organizada e clara. Ele é caracterizado por apresentar argumentos, evidências e análises que sustentam uma tese ou ponto de vista'
 )
 
 criaCartao(
