@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'História',
+    'O que a história pergunta?',
+    'História é a ciência que estuda as ações humanas ao longo do tempo. O trabalho do historiador inclui uma análise minuciosa dos documentos que permitem o estudo do passado. História é a ciência que estuda os acontecimentos passados e a ação do homem no tempo.'
 )
